@@ -86,4 +86,4 @@ print('you')
 winsound.Beep(352, 2000)
 time.sleep(250/2000.0)
 
-print('HAPPY BIRTHDAY! <3')
+print(f'HAPPY BIRTHDAY {name}! <3')
